@@ -1,0 +1,13 @@
+# Python
+pycache/
+*.pyc
+.venv/
+env/
+
+# Editor / OS noise
+.vscode/
+.idea/
+.DS_Store
+
+# Secrets
+.env
